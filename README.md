@@ -11,7 +11,7 @@ Stretch goal:
 
 ## Authors
 - Yanyu Zhang : zhangya@bu.edu
-- Mengyuan Liu : liumengyuan23@gmail.com
+- Mengyuan Liu : 13022270077@163.com
 
 ## Process
 ### Step 1: [Setup your REACT Native Environment] [Done]
